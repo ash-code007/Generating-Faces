@@ -1,4 +1,4 @@
-# Generate-Faces
+# Generating-Faces
 This Project is all about defining and training a DCGAN on a dataset of faces. The goal of the project is to get a generator network to generate new images of faces that look as realistic as possible!
 
 <h2> Dataset </h2> 
@@ -19,11 +19,11 @@ The dataset can be employed as the training and test sets for the following comp
 
 The Generator and the Disciminator Networks were trained for <b>20 Epochs</b> and the Results obtained are:
 
-![Loss](https://github.com/chaithanya21/Generate-Faces/blob/master/Results/Losses.png)
+![Loss](https://github.com/ash-code007/Generating-Faces/blob/tree/master/Results/Losses.png)
 
 <h2> Generated Faces </h2>
 
-![Generated Faces](https://github.com/chaithanya21/Generate-Faces/blob/master/Results/Generated%20Images.png)
+![Generated Faces](https://github.com/ash-code007/Generating-Faces/blob/tree/master/Results/Generated%20Images.png)
 
 <h2>Softwares and Libraries</h2>
 
@@ -42,7 +42,7 @@ The Generator and the Disciminator Networks were trained for <b>20 Epochs</b> an
 Download the project materials from the GitHub repository by using the Download  option or Clone the github repository.After Dowloading or Cloning Navigate to the Home Folder of the Project.
 
 ```
-https://github.com/chaithanya21/Generate-Faces.git
+https://github.com/ash-code007/Generate-Faces.git
 cd Generate-Faces
 ```
 Run the following to open up the notebook server:jupyter notebook
