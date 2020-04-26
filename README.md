@@ -42,8 +42,8 @@ The Generator and the Disciminator Networks were trained for <b>20 Epochs</b> an
 Download the project materials from the GitHub repository by using the Download  option or Clone the github repository.After Dowloading or Cloning Navigate to the Home Folder of the Project.
 
 ```
-https://github.com/ash-code007/Generate-Faces.git
-cd Generate-Faces
+https://github.com/ash-code007/Generating-Faces.git
+cd Generating-Faces
 ```
 Run the following to open up the notebook server:jupyter notebook
 
