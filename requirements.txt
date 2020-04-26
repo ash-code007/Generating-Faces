@@ -1,0 +1,7 @@
+pickle
+numpy
+pandas
+pytorch
+pillow
+matplotlib
+torchvision
