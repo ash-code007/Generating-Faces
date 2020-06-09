@@ -19,11 +19,11 @@ The dataset can be employed as the training and test sets for the following comp
 
 The Generator and the Disciminator Networks were trained for <b>20 Epochs</b> and the Results obtained are:
 
-![Loss](https://github.com/ash-code007/Generating-Faces/tree/master/Results/Losses.png)
+![Loss](https://github.com/ash-code007/Generating-Faces/blob/master/Results/Losses.png)
 
 <h2> Generated Faces </h2>
 
-![Generated Faces](https://github.com/ash-code007/Generating-Faces/tree/master/Results/Generated%20Images.png)
+![Generated Faces](https://github.com/ash-code007/Generating-Faces/blob/master/Results/Generated%20Images.png)
 
 <h2>Softwares and Libraries</h2>
 
